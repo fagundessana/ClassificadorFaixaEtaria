@@ -3,10 +3,10 @@
 <p>Este algoritmo consiste em uma atividade desenvolvida em sala de aula, tendo como principal objetivo a utilização dos conhecimentos adquiridos, como:</p>
 
 <ul>
-  <li>A biblioteca Java <code>Scanner</code></li>
-  <li>Estruturas condicionais <code>if</code> e <code>else</li>
+  <li>A biblioteca Java <code>Scanner</code> para entrada de dados</li>
+  <li>Estruturas condicionais <code>if</code> e <code>else</code></li>
   <li>Tratamento de exceções com <code>try</code>, <code>catch</code> e <code>finally</code></li>
-  <li>Uso do <code>switch-case</code></li>
+  <li>O uso de <code>switch-case</code> para seleção de opções</li>
 </ul>
 
 <h2>A execução do código:</h2>
