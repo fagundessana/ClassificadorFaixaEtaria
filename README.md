@@ -50,7 +50,25 @@
                     <img width="701" height="56" alt="image" src="https://github.com/user-attachments/assets/c8fcfe34-ea3f-469f-a39b-0bb67018f34d" />
             </ol>
 </details>
+    <p>Se o usuário digitar a idade dentre 18 a 59 anos, receberá a seguinte resposta:</p>
+<img width="808" height="285" alt="image" src="https://github.com/user-attachments/assets/319cadb3-a0db-4255-b017-63e770125a9f" />
+<<details>
+                <summary>Subfaixas</summary>
+                <ol>
+                    <li>Caso seja menor ou igual a 75, sua respectiva subfaixa será essa :</li>
+<img width="680" height="60" alt="image" src="https://github.com/user-attachments/assets/ed70c4fd-1418-4688-9cd7-9052c3b14465" />
+                    <li> Caso seja maior que 75 anos, sua respectiva subfaixa será essa:</li>
+<img width="571" height="64" alt="image" src="https://github.com/user-attachments/assets/89862e46-31dc-4564-a5ac-6d3dd39341f6" />
+            </ol>
+</details>
 <h2>Mensagem de erro:</h2>
-<img width="348" height="32" alt="image" src="https://github.com/user-attachments/assets/684d1df5-0b02-4921-9e6a-9b6f9fa88459" />
+<ol>
+  <li>Utilizar apenas números inteiros:</li>
+  <img width="645" height="120" alt="image" src="https://github.com/user-attachments/assets/0b405afd-43a6-4160-89c5-d8015514b56d" />
+  <li>Apenas números naturais:</li>
+  <img width="745" height="85" alt="image" src="https://github.com/user-attachments/assets/b2fd2ed1-a483-4957-81c6-0c6942092f35" />
+  <li>Para idades fictícias:</li>
+  <img width="653" height="70" alt="image" src="https://github.com/user-attachments/assets/e9a0bc62-fbd8-432b-a403-ec9bf5609408" />
 
+</ol>
 
